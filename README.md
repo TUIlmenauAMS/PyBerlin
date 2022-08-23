@@ -1,2 +1,2 @@
 # PyBerlin
-My talks fro PyBerlin
+My talks for PyBerlin
