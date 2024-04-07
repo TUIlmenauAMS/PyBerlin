@@ -5,6 +5,6 @@ For the Roomba Robot with camera see also the Github page with description and s
 
 https://github.com/TUIlmenauAMS/AutonomousRobotsWithCamera
 
-For the Corona computations, see the Github page:
+For the Corona computations, also see the Github page:
 
 https://github.com/TUIlmenauAMS/CoronaComputationPrograms
